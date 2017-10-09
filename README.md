@@ -1,4 +1,4 @@
-#Achi Game
+# Achi Game
 
 PlayAchi.java facilitates a game of Achi. It's a game similar to tic-tac-toe with a dynamically sized board. The only difference is when there is one empty spot left, players take turns sliding their tile into the empty position. 
 
